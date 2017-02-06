@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+C:\Users\Cara\Documents\COMPSCI\2_Software_Engineering\PySysInfo\.metadata\.plugins\org.eclipse.jdt.core
